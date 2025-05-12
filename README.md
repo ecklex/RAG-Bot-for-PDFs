@@ -47,10 +47,6 @@ Dieses Projekt implementiert einen lokalen Retrieval-Augmented Generation (RAG) 
     ````
     pip install -r requirements.txt
     ````
-3. **Datenordner erstellen:** Erstelle einen Ordner namens data im Projektverzeichnis und füge dort deine PDF-Dateien hinzu:
-   ```
-    mkdir data
-   ```
 
 ## 🖥 Verwendung
 ### Web-Interface
