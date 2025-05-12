@@ -1,0 +1,6 @@
+faiss-cpu==1.7.3
+sentence-transformers==2.2.2
+PyMuPDF==1.22.5
+ollama==0.0.6
+gradio==3.41.2
+numpy==1.24.3
